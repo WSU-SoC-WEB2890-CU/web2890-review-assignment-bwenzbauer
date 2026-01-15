@@ -1,1 +1,16 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+- Changed Colors
+- Changed Logos
+- Created Products Page (3 of them)
+- Changed Text
+- Changed the Color Divider pattern/shape thing (used to be wavy, now is jagged)
+- Updated FAQ
+- Updated Testimonials
+- Input my own photos for Photography Gallery
+- Input my own images for Products (and for context, this is sectional pieces of a HO Scale 1/87 sectional model
+railroad based around Utah Transit Authority's TRAX trains - I used to work for them/on them)
+- Updated Contact Material
+- Two new Sections created using Bootstrap Components (Tabbed and List Prodcuts Sections - I'll eventually cut
+this down to one, just not sure which one I like best, V1 and V3 work well on mobile, so that's nice)
+- Everything is made sure to fit well on mobile sized screens (biggest problems were the YouTube videos, but I got that going now)
